@@ -90,7 +90,7 @@
 
 <section id="iletisim">
     <h2>İletişim</h2>
-    <p>📩 İş birlikleri ve sorularınız için: <a href="mailto:info@yatvedeniz.com">info@yatvedeniz.com</a></p>
+    <p>📩 İş birlikleri ve sorularınız için: <a href="mailto:yatvedeniz@gmail.com">info@yatvedeniz.com</a></p>
 </section>
 
 <footer>
